@@ -1,5 +1,5 @@
 
-# Twitter - Part II
+# Twitty APP
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
@@ -20,11 +20,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/VL1ChbSWDg.gif' />
 
-# Project 3 - *Name of App Here*
-
-**Twitt** is a basic twitter app to read your tweets.
-
-Time spent: **X** hours spent in total
 
 ## User Stories
 
